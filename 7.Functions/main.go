@@ -37,5 +37,5 @@ func main() {
 	product := multiply(4, 6)
 	fmt.Println(product)
 	minus := subtract(5, 3)
-	fmt.Println(minus)
+	fmt.Println(minus) 
 }
