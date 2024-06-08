@@ -6,6 +6,9 @@ func simplefunction() {
 	fmt.Println("hello from simple function")
 }
 
+
+// Functions are generally the block of codes or statements in a program that gives the user the ability to reuse the same code which ultimately saves the excessive use of memory
+
 //function with parameters and return type
 func add(x, y int) int {
 	//input parameters are x and y and output parameter
