@@ -24,4 +24,4 @@ func main() {
 		fmt.Println("error handling")
 	}
 	fmt.Println("division of two numbers", div)
-}
+} 
