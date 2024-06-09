@@ -1,3 +1,3 @@
-module 10.underscoreidentifier
+module 10.UNDERSCOREIDENTIFIER
 
 go 1.22.4
